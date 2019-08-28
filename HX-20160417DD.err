@@ -2,3 +2,9 @@
 2019-08-24T08:10:25.860781Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
 2019-08-24T08:10:25.893783Z 0 [System] [MY-010931] [Server] D:\tomcat\mysql-8.0.17-winx64\bin\mysqld: ready for connections. Version: '8.0.17'  socket: ''  port: 3306  MySQL Community Server - GPL.
 2019-08-24T08:10:26.044792Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-08-28T09:17:10.600146Z 0 [System] [MY-013105] [Server] D:\tomcat\mysql-8.0.17-winx64\bin\mysqld: Normal shutdown.
+2019-08-28T09:17:11.707748Z 0 [System] [MY-010910] [Server] D:\tomcat\mysql-8.0.17-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.17)  MySQL Community Server - GPL.
+2019-08-28T09:17:25.590423Z 0 [System] [MY-010116] [Server] D:\tomcat\mysql-8.0.17-winx64\bin\mysqld (mysqld 8.0.17) starting as process 2384
+2019-08-28T09:17:27.556026Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-08-28T09:17:27.587226Z 0 [System] [MY-010931] [Server] D:\tomcat\mysql-8.0.17-winx64\bin\mysqld: ready for connections. Version: '8.0.17'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2019-08-28T09:17:27.727627Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
